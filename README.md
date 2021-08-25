@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular, Nodejs, Express, Mongodb, Tailwind**
 
-- 📫 How to reach me **chan.dev.031490@gmail.com**
+- 📫 How to reach me **christian.m.austria@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
