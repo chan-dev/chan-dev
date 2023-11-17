@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chan-dev</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
+<h1 align="center">Hi 👋, I'm chan-dev</h1>
+<h3 align="center">A passionate full-stack developer from Philippines</h3>
 
 - 🔭 I’m currently working on **Pocketlite**
 
